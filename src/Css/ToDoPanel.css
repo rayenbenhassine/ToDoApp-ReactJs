@@ -1,0 +1,22 @@
+.inputTodo{
+    width: 92%;
+    padding:10px;
+    border-radius: 5px;
+    border: solid 1px;
+    margin-bottom: 10px;
+}
+.btnAdd{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background: white;
+    color: white;
+    background: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+.btnAdd:hover{
+    cursor: pointer;
+    
+}

@@ -1,0 +1,12 @@
+
+.todoContainer{
+    border : solid 1px; 
+    margin-bottom: 7px;
+    padding: 7px;
+    border-radius: 5px;
+}
+.todoText{
+    margin-left: 20px;
+    font-size: 18px;
+}
+
